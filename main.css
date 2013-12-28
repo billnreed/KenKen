@@ -15,3 +15,11 @@
     text-align: center;
     vertical-align: top;
 }
+
+.cell-selected {
+    background-color: #0f0;
+}
+
+#controls {
+    
+}
